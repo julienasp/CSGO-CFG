@@ -7,8 +7,8 @@ My CSGO configs
 # True sensitivity
 **eDPI:** 352<br> 
 **DPI:** 1600<br>
-**Sensitity:** 0.7
-**Cm/360°:** 37.11
+**Sensitity:** 0.7<br>
+**Cm/360°:** 37.11<br>
 
 # How to install
 0. Install Notepad++ (will be usefull for step 3)
