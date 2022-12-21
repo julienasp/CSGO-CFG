@@ -5,9 +5,9 @@ My CSGO configs
 -noforcemspd -noforcemaccel -high -threads 8 -no-browser -nojoy -novid -nod3d9ex -console -noborder -freq 144 -tickrate 128 +exec autoexec
 
 # True sensitivity
-eDPI: 352
-DPI: 1600
-Sensitity: 0.7
+**eDPI:** 352<br> 
+**DPI:** 1600<br>
+**Sensitity:** 0.7
 
 # How to install
 0. Install Notepad++ (will be usefull for step 3)
